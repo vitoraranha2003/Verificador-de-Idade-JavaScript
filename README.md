@@ -1,1 +1,1 @@
-# Verificador-de-Idade-JavaScript
+Esse programa verifica a sua idade de acordo com o seu ano de nascimento. Além disso, você escolhe seu sexo e o programa mostra um exemplo de foto de acordo com as informações que você preencheu (Exemplo: Mulher de 30 anos). Feito em HTML, CSS e JavaScript
