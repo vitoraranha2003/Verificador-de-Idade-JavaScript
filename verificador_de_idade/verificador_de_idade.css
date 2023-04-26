@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+    font-family: Arial;
+    text-align: center;
+    color: white;
+}
+section{
+    background-color: white;
+    min-height: 150px;
+    min-width: 450px;
+    max-height: 450px;
+    max-width: 450px;
+    align-items: center;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 3%;
+    padding: 20px;
+    box-shadow: black 5px 5px;
+    color: black;
+}
+header{
+    font-size: 20px;
+}
+p{
+    font-size: 17px;
+}
+img#foto{
+    padding: 15px;
+}
